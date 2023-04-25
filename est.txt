@@ -1,0 +1,28 @@
+﻿Üles laadima
+Alla laadima
+Õpimapp
+Kopeerima
+Kleebima
+Salasõna
+Kasutaja nimi
+Sündmus
+Muutuja
+Andur
+Klõpsama
+Tehted
+Muuda suurust
+Taust
+Võta suureseks
+Alusta heli
+Tühik
+Teade
+Korda N korda
+Puudutama
+Klahv
+Pikkus
+Näita
+Peida
+Looma
+Suund
+Lava
+Oota
